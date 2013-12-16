@@ -1,0 +1,10 @@
+{
+  "sources": {
+    "balanced-citadel": {
+      "path": "."
+    },
+    "citadel": {
+      "locked_version": "1.0.0"
+    }
+  }
+}
