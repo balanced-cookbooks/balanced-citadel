@@ -17,4 +17,4 @@
 #
 
 # Default S3 bucket to use for Citadel data
-override['citadel']['bucket'] = 'balanced.citadel'
+override['citadel']['bucket'] = 'balanced-citadel'
